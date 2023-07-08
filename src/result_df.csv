@@ -1,0 +1,35 @@
+RACE1,GENDER,Age_Greater_Than_50,Total,Missed,RiskRatio
+American Indian,Female,No,31,8.0,0.34782608695652173
+American Indian,Female,Yes,10,2.0,0.25
+American Indian,Male,No,137,36.0,0.3564356435643564
+American Indian,Male,Yes,16,3.0,0.23076923076923078
+Asian,Female,No,33,8.0,0.32
+Asian,Female,Yes,21,7.0,0.5
+Asian,Male,No,159,34.0,0.272
+Asian,Male,Yes,68,18.0,0.36
+Black or African American,Female,No,372,102.0,0.37777777777777777
+Black or African American,Female,Yes,109,31.0,0.3974358974358974
+Black or African American,Male,No,3410,814.0,0.3135593220338983
+Black or African American,Male,Yes,417,116.0,0.3853820598006645
+Native Hawaiian or Other Pacific Islander,Female,No,1,,
+Native Hawaiian or Other Pacific Islander,Male,No,43,11.0,0.34375
+Native Hawaiian or Other Pacific Islander,Male,Yes,6,1.0,0.2
+Not Applicable BIU 1,Female,No,12,5.0,0.7142857142857143
+Not Applicable BIU 1,Female,Yes,2,,
+Not Applicable BIU 1,Male,No,67,15.0,0.28846153846153844
+Not Applicable BIU 1,Male,Yes,16,4.0,0.3333333333333333
+Not Known/Not Recorded BIU 2,Female,No,74,16.0,0.27586206896551724
+Not Known/Not Recorded BIU 2,Female,Yes,31,10.0,0.47619047619047616
+Not Known/Not Recorded BIU 2,Male,No,409,86.0,0.26625386996904027
+Not Known/Not Recorded BIU 2,Male,Yes,91,28.0,0.4444444444444444
+Not Known/Not Recorded BIU 2,Not Known/Not Recorded BIU 2,No,9,5.0,1.25
+Not Known/Not Recorded BIU 2,Not Known/Not Recorded BIU 2,Yes,4,2.0,1.0
+Other Race,Female,No,211,50.0,0.3105590062111801
+Other Race,Female,Yes,83,21.0,0.3387096774193548
+Other Race,Male,No,1583,377.0,0.31260364842454397
+Other Race,Male,Yes,269,64.0,0.3121951219512195
+White,Female,No,1406,396.0,0.3920792079207921
+White,Female,Yes,993,221.0,0.2862694300518135
+White,Male,No,6856,1862.0,0.37284741690028034
+White,Male,Yes,2427,635.0,0.35435267857142855
+White,Not Known/Not Recorded BIU 2,No,2,,

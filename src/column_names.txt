@@ -1,0 +1,65 @@
+Column Names
+INC_KEY
+YOBIRTH
+AGE
+AGEU
+target
+GENDER_Female
+GENDER_Male
+GENDER_Not Known/Not Recorded BIU 2
+RACE1_American Indian
+RACE1_Asian
+RACE1_Black or African American
+RACE1_Native Hawaiian or Other Pacific Islander
+RACE1_Not Applicable BIU 1
+RACE1_Not Known/Not Recorded BIU 2
+RACE1_Other Race
+RACE1_White
+RACE2_American Indian
+RACE2_Asian
+RACE2_Black or African American
+RACE2_Native Hawaiian or Other Pacific Islander
+RACE2_Not Applicable BIU 1
+RACE2_Not Known/Not Recorded BIU 2
+RACE2_Other Race
+RACE2_White
+ETHNIC_Hispanic or Latino
+ETHNIC_Not Applicable BIU 1
+ETHNIC_Not Hispanic or Latino
+ETHNIC_Not Known/Not Recorded BIU 2
+COMORDES_Advanced directive limiting care
+COMORDES_Alcohol Use Disorder
+COMORDES_Alcoholism
+COMORDES_Ascites within 30 days
+COMORDES_Attention deficit disorder/attention deficit hyperactivity disorder (ADD/ADHD)
+COMORDES_Bleeding Disorder
+COMORDES_CVA/residual neurological deficit
+COMORDES_Cerebrovascular Accident (CVA)
+COMORDES_Chronic Obstructive Pulmonary Disease (COPD)
+COMORDES_Chronic renal failure
+COMORDES_Cirrhosis
+COMORDES_Congenital Anomalies
+COMORDES_Congestive heart failure
+COMORDES_Current smoker
+COMORDES_Currently receiving chemotherapy for cancer
+COMORDES_Dementia
+COMORDES_Diabetes mellitus
+COMORDES_Disseminated cancer
+COMORDES_Drug abuse or dependence
+COMORDES_Drug use disorder
+COMORDES_Esophageal varices
+COMORDES_Functionally dependent health status
+COMORDES_History of PVD
+COMORDES_History of Peripheral Vascular Disease (PVD)
+COMORDES_History of angina within 30 days
+COMORDES_History of myocardial infarction
+COMORDES_Hypertension requiring medication
+COMORDES_Major psychiatric illness
+COMORDES_Not Applicable BIU 1
+COMORDES_Not Known/Not Recorded BIU 2
+COMORDES_Obesity
+COMORDES_Other
+COMORDES_Pre-hospital cardiac arrest with resuscitative efforts by healthcare provider
+COMORDES_Prematurity
+COMORDES_Respiratory disease
+COMORDES_Steroid use

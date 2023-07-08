@@ -1,0 +1,538 @@
+RACE1,GENDER,AGE,Total,Missed,RiskRatio
+American Indian,Female,16,3,2.0,2.0
+American Indian,Female,18,2,1.0,1.0
+American Indian,Female,24,3,1.0,0.5
+American Indian,Female,26,2,1.0,1.0
+American Indian,Female,45,2,1.0,1.0
+American Indian,Male,17,2,1.0,1.0
+American Indian,Male,21,4,2.0,1.0
+American Indian,Male,22,8,3.0,0.6
+American Indian,Male,23,8,1.0,0.14285714285714285
+American Indian,Male,25,4,2.0,1.0
+American Indian,Male,27,3,2.0,2.0
+American Indian,Male,28,9,4.0,0.8
+American Indian,Male,29,6,2.0,0.5
+American Indian,Male,30,8,2.0,0.3333333333333333
+American Indian,Male,34,6,2.0,0.5
+American Indian,Male,35,4,1.0,0.3333333333333333
+American Indian,Male,36,3,1.0,0.5
+American Indian,Male,37,4,1.0,0.3333333333333333
+American Indian,Male,48,7,3.0,0.75
+American Indian,Male,52,2,1.0,1.0
+American Indian,Male,55,2,1.0,1.0
+Asian,Female,13,2,1.0,1.0
+Asian,Female,21,2,1.0,1.0
+Asian,Female,31,3,2.0,2.0
+Asian,Female,39,2,1.0,1.0
+Asian,Female,55,3,2.0,2.0
+Asian,Male,15,4,2.0,1.0
+Asian,Male,16,3,1.0,0.5
+Asian,Male,18,5,2.0,0.6666666666666666
+Asian,Male,19,4,1.0,0.3333333333333333
+Asian,Male,20,6,1.0,0.2
+Asian,Male,21,7,2.0,0.4
+Asian,Male,22,2,1.0,1.0
+Asian,Male,23,5,2.0,0.6666666666666666
+Asian,Male,24,8,1.0,0.14285714285714285
+Asian,Male,26,5,1.0,0.25
+Asian,Male,27,6,3.0,1.0
+Asian,Male,28,2,1.0,1.0
+Asian,Male,31,5,1.0,0.25
+Asian,Male,32,4,1.0,0.3333333333333333
+Asian,Male,33,8,1.0,0.14285714285714285
+Asian,Male,34,9,1.0,0.125
+Asian,Male,36,4,2.0,1.0
+Asian,Male,40,2,1.0,1.0
+Asian,Male,41,2,1.0,1.0
+Asian,Male,44,4,2.0,1.0
+Asian,Male,46,2,1.0,1.0
+Asian,Male,49,4,1.0,0.3333333333333333
+Asian,Male,51,4,1.0,0.3333333333333333
+Asian,Male,52,4,3.0,3.0
+Asian,Male,53,4,1.0,0.3333333333333333
+Asian,Male,55,6,3.0,1.0
+Asian,Male,56,4,2.0,1.0
+Asian,Male,57,3,1.0,0.5
+Asian,Male,60,2,1.0,1.0
+Asian,Male,61,3,1.0,0.5
+Asian,Male,66,7,1.0,0.16666666666666666
+Asian,Male,74,2,1.0,1.0
+Asian,Male,78,3,1.0,0.5
+Black or African American,Female,3,4,1.0,0.3333333333333333
+Black or African American,Female,6,4,1.0,0.3333333333333333
+Black or African American,Female,7,2,1.0,1.0
+Black or African American,Female,9,3,1.0,0.5
+Black or African American,Female,12,3,1.0,0.5
+Black or African American,Female,14,3,1.0,0.5
+Black or African American,Female,15,4,1.0,0.3333333333333333
+Black or African American,Female,17,10,3.0,0.42857142857142855
+Black or African American,Female,18,13,4.0,0.4444444444444444
+Black or African American,Female,19,13,4.0,0.4444444444444444
+Black or African American,Female,20,11,3.0,0.375
+Black or African American,Female,21,17,4.0,0.3076923076923077
+Black or African American,Female,22,19,6.0,0.46153846153846156
+Black or African American,Female,23,12,1.0,0.09090909090909091
+Black or African American,Female,24,15,7.0,0.875
+Black or African American,Female,25,10,1.0,0.1111111111111111
+Black or African American,Female,26,9,3.0,0.5
+Black or African American,Female,27,10,3.0,0.42857142857142855
+Black or African American,Female,28,18,5.0,0.38461538461538464
+Black or African American,Female,29,11,3.0,0.375
+Black or African American,Female,30,11,1.0,0.1
+Black or African American,Female,31,8,3.0,0.6
+Black or African American,Female,32,6,2.0,0.5
+Black or African American,Female,33,8,3.0,0.6
+Black or African American,Female,35,12,6.0,1.0
+Black or African American,Female,36,15,5.0,0.5
+Black or African American,Female,37,9,1.0,0.125
+Black or African American,Female,38,5,1.0,0.25
+Black or African American,Female,39,7,2.0,0.4
+Black or African American,Female,40,4,1.0,0.3333333333333333
+Black or African American,Female,41,8,1.0,0.14285714285714285
+Black or African American,Female,42,5,1.0,0.25
+Black or African American,Female,45,8,2.0,0.3333333333333333
+Black or African American,Female,46,7,3.0,0.75
+Black or African American,Female,47,9,2.0,0.2857142857142857
+Black or African American,Female,48,4,1.0,0.3333333333333333
+Black or African American,Female,49,8,4.0,1.0
+Black or African American,Female,50,11,3.0,0.375
+Black or African American,Female,51,13,4.0,0.4444444444444444
+Black or African American,Female,52,8,1.0,0.14285714285714285
+Black or African American,Female,53,7,3.0,0.75
+Black or African American,Female,54,7,3.0,0.75
+Black or African American,Female,55,7,2.0,0.4
+Black or African American,Female,57,5,3.0,1.5
+Black or African American,Female,58,5,4.0,4.0
+Black or African American,Female,59,8,2.0,0.3333333333333333
+Black or African American,Female,62,4,3.0,3.0
+Black or African American,Female,65,4,1.0,0.3333333333333333
+Black or African American,Female,72,2,1.0,1.0
+Black or African American,Female,74,2,1.0,1.0
+Black or African American,Female,78,2,1.0,1.0
+Black or African American,Male,3,3,1.0,0.5
+Black or African American,Male,4,3,1.0,0.5
+Black or African American,Male,5,5,2.0,0.6666666666666666
+Black or African American,Male,6,2,1.0,1.0
+Black or African American,Male,7,6,2.0,0.5
+Black or African American,Male,8,9,3.0,0.5
+Black or African American,Male,10,9,5.0,1.25
+Black or African American,Male,11,5,2.0,0.6666666666666666
+Black or African American,Male,12,16,3.0,0.23076923076923078
+Black or African American,Male,13,37,7.0,0.23333333333333334
+Black or African American,Male,14,48,14.0,0.4117647058823529
+Black or African American,Male,15,52,15.0,0.40540540540540543
+Black or African American,Male,16,70,17.0,0.32075471698113206
+Black or African American,Male,17,105,23.0,0.2804878048780488
+Black or African American,Male,18,121,30.0,0.32967032967032966
+Black or African American,Male,19,130,35.0,0.3684210526315789
+Black or African American,Male,20,183,36.0,0.24489795918367346
+Black or African American,Male,21,156,42.0,0.3684210526315789
+Black or African American,Male,22,183,51.0,0.38636363636363635
+Black or African American,Male,23,159,34.0,0.272
+Black or African American,Male,24,170,28.0,0.19718309859154928
+Black or African American,Male,25,150,39.0,0.35135135135135137
+Black or African American,Male,26,115,27.0,0.3068181818181818
+Black or African American,Male,27,135,28.0,0.2616822429906542
+Black or African American,Male,28,114,22.0,0.2391304347826087
+Black or African American,Male,29,115,25.0,0.2777777777777778
+Black or African American,Male,30,114,25.0,0.2808988764044944
+Black or African American,Male,31,86,21.0,0.3230769230769231
+Black or African American,Male,32,92,21.0,0.29577464788732394
+Black or African American,Male,33,94,21.0,0.2876712328767123
+Black or African American,Male,34,77,15.0,0.24193548387096775
+Black or African American,Male,35,91,15.0,0.19736842105263158
+Black or African American,Male,36,70,20.0,0.4
+Black or African American,Male,37,71,19.0,0.36538461538461536
+Black or African American,Male,38,52,14.0,0.3684210526315789
+Black or African American,Male,39,56,16.0,0.4
+Black or African American,Male,40,42,7.0,0.2
+Black or African American,Male,41,56,19.0,0.5135135135135135
+Black or African American,Male,42,44,15.0,0.5172413793103449
+Black or African American,Male,43,54,14.0,0.35
+Black or African American,Male,44,49,12.0,0.32432432432432434
+Black or African American,Male,45,48,15.0,0.45454545454545453
+Black or African American,Male,46,43,17.0,0.6538461538461539
+Black or African American,Male,47,36,10.0,0.38461538461538464
+Black or African American,Male,48,45,13.0,0.40625
+Black or African American,Male,49,40,7.0,0.21212121212121213
+Black or African American,Male,50,37,4.0,0.12121212121212122
+Black or African American,Male,51,34,7.0,0.25925925925925924
+Black or African American,Male,52,42,13.0,0.4482758620689655
+Black or African American,Male,53,37,15.0,0.6818181818181818
+Black or African American,Male,54,39,11.0,0.39285714285714285
+Black or African American,Male,55,20,8.0,0.6666666666666666
+Black or African American,Male,56,32,6.0,0.23076923076923078
+Black or African American,Male,57,22,5.0,0.29411764705882354
+Black or African American,Male,58,23,10.0,0.7692307692307693
+Black or African American,Male,59,29,6.0,0.2608695652173913
+Black or African American,Male,60,19,6.0,0.46153846153846156
+Black or African American,Male,61,16,6.0,0.6
+Black or African American,Male,62,14,5.0,0.5555555555555556
+Black or African American,Male,63,21,5.0,0.3125
+Black or African American,Male,64,11,1.0,0.1
+Black or African American,Male,65,7,3.0,0.75
+Black or African American,Male,66,10,2.0,0.25
+Black or African American,Male,68,4,1.0,0.3333333333333333
+Black or African American,Male,72,4,1.0,0.3333333333333333
+Black or African American,Male,74,2,1.0,1.0
+Native Hawaiian or Other Pacific Islander,Male,20,2,1.0,1.0
+Native Hawaiian or Other Pacific Islander,Male,24,4,1.0,0.3333333333333333
+Native Hawaiian or Other Pacific Islander,Male,25,3,1.0,0.5
+Native Hawaiian or Other Pacific Islander,Male,44,2,1.0,1.0
+Not Applicable BIU 1,Female,31,2,1.0,1.0
+Not Applicable BIU 1,Female,32,2,1.0,1.0
+Not Applicable BIU 1,Male,19,3,2.0,2.0
+Not Applicable BIU 1,Male,20,5,1.0,0.25
+Not Applicable BIU 1,Male,21,2,1.0,1.0
+Not Applicable BIU 1,Male,25,3,1.0,0.5
+Not Applicable BIU 1,Male,32,4,3.0,3.0
+Not Applicable BIU 1,Male,42,4,2.0,1.0
+Not Applicable BIU 1,Male,47,3,2.0,2.0
+Not Applicable BIU 1,Male,67,2,1.0,1.0
+Not Known/Not Recorded BIU 2,Female,5,2,1.0,1.0
+Not Known/Not Recorded BIU 2,Female,15,2,1.0,1.0
+Not Known/Not Recorded BIU 2,Female,42,3,1.0,0.5
+Not Known/Not Recorded BIU 2,Female,49,3,2.0,2.0
+Not Known/Not Recorded BIU 2,Female,51,2,1.0,1.0
+Not Known/Not Recorded BIU 2,Female,55,3,1.0,0.5
+Not Known/Not Recorded BIU 2,Female,61,5,3.0,1.5
+Not Known/Not Recorded BIU 2,Female,84,2,1.0,1.0
+Not Known/Not Recorded BIU 2,Male,4,2,1.0,1.0
+Not Known/Not Recorded BIU 2,Male,12,4,1.0,0.3333333333333333
+Not Known/Not Recorded BIU 2,Male,13,5,2.0,0.6666666666666666
+Not Known/Not Recorded BIU 2,Male,14,6,1.0,0.2
+Not Known/Not Recorded BIU 2,Male,16,5,2.0,0.6666666666666666
+Not Known/Not Recorded BIU 2,Male,17,8,1.0,0.14285714285714285
+Not Known/Not Recorded BIU 2,Male,18,17,3.0,0.21428571428571427
+Not Known/Not Recorded BIU 2,Male,19,16,4.0,0.3333333333333333
+Not Known/Not Recorded BIU 2,Male,20,14,5.0,0.5555555555555556
+Not Known/Not Recorded BIU 2,Male,21,12,2.0,0.2
+Not Known/Not Recorded BIU 2,Male,22,16,2.0,0.14285714285714285
+Not Known/Not Recorded BIU 2,Male,23,11,2.0,0.2222222222222222
+Not Known/Not Recorded BIU 2,Male,24,16,1.0,0.06666666666666667
+Not Known/Not Recorded BIU 2,Male,25,13,5.0,0.625
+Not Known/Not Recorded BIU 2,Male,26,10,3.0,0.42857142857142855
+Not Known/Not Recorded BIU 2,Male,27,10,4.0,0.6666666666666666
+Not Known/Not Recorded BIU 2,Male,28,9,1.0,0.125
+Not Known/Not Recorded BIU 2,Male,29,11,4.0,0.5714285714285714
+Not Known/Not Recorded BIU 2,Male,30,7,1.0,0.16666666666666666
+Not Known/Not Recorded BIU 2,Male,31,8,1.0,0.14285714285714285
+Not Known/Not Recorded BIU 2,Male,32,17,3.0,0.21428571428571427
+Not Known/Not Recorded BIU 2,Male,33,16,3.0,0.23076923076923078
+Not Known/Not Recorded BIU 2,Male,34,9,1.0,0.125
+Not Known/Not Recorded BIU 2,Male,35,16,2.0,0.14285714285714285
+Not Known/Not Recorded BIU 2,Male,36,17,5.0,0.4166666666666667
+Not Known/Not Recorded BIU 2,Male,37,10,2.0,0.25
+Not Known/Not Recorded BIU 2,Male,38,9,1.0,0.125
+Not Known/Not Recorded BIU 2,Male,39,5,2.0,0.6666666666666666
+Not Known/Not Recorded BIU 2,Male,40,11,3.0,0.375
+Not Known/Not Recorded BIU 2,Male,41,10,2.0,0.25
+Not Known/Not Recorded BIU 2,Male,42,9,2.0,0.2857142857142857
+Not Known/Not Recorded BIU 2,Male,43,12,2.0,0.2
+Not Known/Not Recorded BIU 2,Male,44,8,3.0,0.6
+Not Known/Not Recorded BIU 2,Male,45,7,1.0,0.16666666666666666
+Not Known/Not Recorded BIU 2,Male,46,7,1.0,0.16666666666666666
+Not Known/Not Recorded BIU 2,Male,47,6,1.0,0.2
+Not Known/Not Recorded BIU 2,Male,48,6,3.0,1.0
+Not Known/Not Recorded BIU 2,Male,49,6,1.0,0.2
+Not Known/Not Recorded BIU 2,Male,50,7,2.0,0.4
+Not Known/Not Recorded BIU 2,Male,51,7,1.0,0.16666666666666666
+Not Known/Not Recorded BIU 2,Male,52,8,1.0,0.14285714285714285
+Not Known/Not Recorded BIU 2,Male,53,11,4.0,0.5714285714285714
+Not Known/Not Recorded BIU 2,Male,54,6,2.0,0.5
+Not Known/Not Recorded BIU 2,Male,56,5,2.0,0.6666666666666666
+Not Known/Not Recorded BIU 2,Male,58,5,1.0,0.25
+Not Known/Not Recorded BIU 2,Male,59,6,4.0,2.0
+Not Known/Not Recorded BIU 2,Male,67,2,1.0,1.0
+Not Known/Not Recorded BIU 2,Male,69,4,3.0,3.0
+Not Known/Not Recorded BIU 2,Male,70,2,1.0,1.0
+Not Known/Not Recorded BIU 2,Not Known/Not Recorded BIU 2,31,2,1.0,1.0
+Not Known/Not Recorded BIU 2,Not Known/Not Recorded BIU 2,35,2,1.0,1.0
+Other Race,Female,5,2,1.0,1.0
+Other Race,Female,7,3,1.0,0.5
+Other Race,Female,8,2,1.0,1.0
+Other Race,Female,10,2,1.0,1.0
+Other Race,Female,12,4,2.0,1.0
+Other Race,Female,13,7,1.0,0.16666666666666666
+Other Race,Female,14,4,1.0,0.3333333333333333
+Other Race,Female,15,4,1.0,0.3333333333333333
+Other Race,Female,16,6,2.0,0.5
+Other Race,Female,18,9,2.0,0.2857142857142857
+Other Race,Female,20,7,4.0,1.3333333333333333
+Other Race,Female,21,6,3.0,1.0
+Other Race,Female,22,6,1.0,0.2
+Other Race,Female,24,10,4.0,0.6666666666666666
+Other Race,Female,25,7,1.0,0.16666666666666666
+Other Race,Female,26,6,1.0,0.2
+Other Race,Female,27,4,1.0,0.3333333333333333
+Other Race,Female,28,5,2.0,0.6666666666666666
+Other Race,Female,29,9,3.0,0.5
+Other Race,Female,30,7,1.0,0.16666666666666666
+Other Race,Female,31,2,1.0,1.0
+Other Race,Female,33,6,1.0,0.2
+Other Race,Female,34,8,1.0,0.14285714285714285
+Other Race,Female,35,5,2.0,0.6666666666666666
+Other Race,Female,37,7,1.0,0.16666666666666666
+Other Race,Female,38,3,2.0,2.0
+Other Race,Female,41,6,1.0,0.2
+Other Race,Female,42,5,2.0,0.6666666666666666
+Other Race,Female,43,6,2.0,0.5
+Other Race,Female,49,3,1.0,0.5
+Other Race,Female,51,5,3.0,1.5
+Other Race,Female,52,4,2.0,1.0
+Other Race,Female,54,3,1.0,0.5
+Other Race,Female,55,5,1.0,0.25
+Other Race,Female,56,3,2.0,2.0
+Other Race,Female,57,4,2.0,1.0
+Other Race,Female,59,6,1.0,0.2
+Other Race,Female,63,4,1.0,0.3333333333333333
+Other Race,Female,66,4,2.0,1.0
+Other Race,Female,75,2,1.0,1.0
+Other Race,Female,78,2,1.0,1.0
+Other Race,Female,81,2,1.0,1.0
+Other Race,Male,3,7,1.0,0.16666666666666666
+Other Race,Male,4,3,2.0,2.0
+Other Race,Male,5,4,3.0,3.0
+Other Race,Male,6,3,1.0,0.5
+Other Race,Male,7,3,1.0,0.5
+Other Race,Male,9,3,1.0,0.5
+Other Race,Male,10,4,1.0,0.3333333333333333
+Other Race,Male,11,7,4.0,1.3333333333333333
+Other Race,Male,12,12,6.0,1.0
+Other Race,Male,13,16,5.0,0.45454545454545453
+Other Race,Male,14,21,1.0,0.05
+Other Race,Male,15,21,4.0,0.23529411764705882
+Other Race,Male,16,32,15.0,0.8823529411764706
+Other Race,Male,17,44,17.0,0.6296296296296297
+Other Race,Male,18,48,12.0,0.3333333333333333
+Other Race,Male,19,52,19.0,0.5757575757575758
+Other Race,Male,20,55,16.0,0.41025641025641024
+Other Race,Male,21,71,16.0,0.2909090909090909
+Other Race,Male,22,63,10.0,0.18867924528301888
+Other Race,Male,23,58,10.0,0.20833333333333334
+Other Race,Male,24,60,15.0,0.3333333333333333
+Other Race,Male,25,58,10.0,0.20833333333333334
+Other Race,Male,26,58,16.0,0.38095238095238093
+Other Race,Male,27,48,12.0,0.3333333333333333
+Other Race,Male,28,43,9.0,0.2647058823529412
+Other Race,Male,29,45,12.0,0.36363636363636365
+Other Race,Male,30,48,12.0,0.3333333333333333
+Other Race,Male,31,40,8.0,0.25
+Other Race,Male,32,48,11.0,0.2972972972972973
+Other Race,Male,33,36,4.0,0.125
+Other Race,Male,34,42,13.0,0.4482758620689655
+Other Race,Male,35,45,11.0,0.3235294117647059
+Other Race,Male,36,36,8.0,0.2857142857142857
+Other Race,Male,37,38,4.0,0.11764705882352941
+Other Race,Male,38,38,9.0,0.3103448275862069
+Other Race,Male,39,38,4.0,0.11764705882352941
+Other Race,Male,40,34,5.0,0.1724137931034483
+Other Race,Male,41,33,10.0,0.43478260869565216
+Other Race,Male,42,29,6.0,0.2608695652173913
+Other Race,Male,43,29,12.0,0.7058823529411765
+Other Race,Male,44,32,3.0,0.10344827586206896
+Other Race,Male,45,29,3.0,0.11538461538461539
+Other Race,Male,46,26,5.0,0.23809523809523808
+Other Race,Male,47,35,7.0,0.25
+Other Race,Male,48,26,11.0,0.7333333333333333
+Other Race,Male,49,19,5.0,0.35714285714285715
+Other Race,Male,50,32,7.0,0.28
+Other Race,Male,51,25,3.0,0.13636363636363635
+Other Race,Male,52,16,4.0,0.3333333333333333
+Other Race,Male,53,23,5.0,0.2777777777777778
+Other Race,Male,54,23,6.0,0.35294117647058826
+Other Race,Male,55,16,4.0,0.3333333333333333
+Other Race,Male,57,19,3.0,0.1875
+Other Race,Male,58,14,2.0,0.16666666666666666
+Other Race,Male,59,15,6.0,0.6666666666666666
+Other Race,Male,60,12,6.0,1.0
+Other Race,Male,61,7,2.0,0.4
+Other Race,Male,62,11,3.0,0.375
+Other Race,Male,63,7,2.0,0.4
+Other Race,Male,64,4,1.0,0.3333333333333333
+Other Race,Male,65,8,4.0,1.0
+Other Race,Male,70,3,2.0,2.0
+Other Race,Male,71,4,3.0,3.0
+Other Race,Male,73,4,2.0,1.0
+Other Race,Male,75,3,1.0,0.5
+Other Race,Male,76,4,1.0,0.3333333333333333
+Other Race,Male,77,5,2.0,0.6666666666666666
+Other Race,Male,80,2,1.0,1.0
+White,Female,-99,24,8.0,0.5
+White,Female,0,5,1.0,0.25
+White,Female,1,5,2.0,0.6666666666666666
+White,Female,2,7,4.0,1.3333333333333333
+White,Female,3,9,3.0,0.5
+White,Female,5,8,2.0,0.3333333333333333
+White,Female,6,10,2.0,0.25
+White,Female,7,12,5.0,0.7142857142857143
+White,Female,8,14,7.0,1.0
+White,Female,9,15,2.0,0.15384615384615385
+White,Female,10,12,6.0,1.0
+White,Female,11,17,7.0,0.7
+White,Female,12,15,5.0,0.5
+White,Female,13,26,5.0,0.23809523809523808
+White,Female,14,17,3.0,0.21428571428571427
+White,Female,15,12,3.0,0.3333333333333333
+White,Female,16,25,3.0,0.13636363636363635
+White,Female,17,26,10.0,0.625
+White,Female,18,25,5.0,0.25
+White,Female,19,21,7.0,0.5
+White,Female,20,29,9.0,0.45
+White,Female,21,35,12.0,0.5217391304347826
+White,Female,22,42,9.0,0.2727272727272727
+White,Female,23,47,7.0,0.175
+White,Female,24,34,7.0,0.25925925925925924
+White,Female,25,26,6.0,0.3
+White,Female,26,35,10.0,0.4
+White,Female,27,38,12.0,0.46153846153846156
+White,Female,28,40,10.0,0.3333333333333333
+White,Female,29,31,8.0,0.34782608695652173
+White,Female,30,39,11.0,0.39285714285714285
+White,Female,31,39,9.0,0.3
+White,Female,32,35,8.0,0.2962962962962963
+White,Female,33,36,11.0,0.44
+White,Female,34,31,13.0,0.7222222222222222
+White,Female,35,31,13.0,0.7222222222222222
+White,Female,36,29,5.0,0.20833333333333334
+White,Female,37,32,13.0,0.6842105263157895
+White,Female,38,33,10.0,0.43478260869565216
+White,Female,39,43,16.0,0.5925925925925926
+White,Female,40,29,7.0,0.3181818181818182
+White,Female,41,22,7.0,0.4666666666666667
+White,Female,42,37,10.0,0.37037037037037035
+White,Female,43,33,6.0,0.2222222222222222
+White,Female,44,36,10.0,0.38461538461538464
+White,Female,45,34,8.0,0.3076923076923077
+White,Female,46,45,14.0,0.45161290322580644
+White,Female,47,36,11.0,0.44
+White,Female,48,35,8.0,0.2962962962962963
+White,Female,49,34,7.0,0.25925925925925924
+White,Female,50,51,19.0,0.59375
+White,Female,51,40,11.0,0.3793103448275862
+White,Female,52,42,9.0,0.2727272727272727
+White,Female,53,47,5.0,0.11904761904761904
+White,Female,54,53,12.0,0.2926829268292683
+White,Female,55,55,13.0,0.30952380952380953
+White,Female,56,46,9.0,0.24324324324324326
+White,Female,57,47,10.0,0.2702702702702703
+White,Female,58,41,11.0,0.36666666666666664
+White,Female,59,39,11.0,0.39285714285714285
+White,Female,60,36,10.0,0.38461538461538464
+White,Female,61,36,4.0,0.125
+White,Female,62,34,10.0,0.4166666666666667
+White,Female,63,31,9.0,0.4090909090909091
+White,Female,64,22,8.0,0.5714285714285714
+White,Female,65,28,5.0,0.21739130434782608
+White,Female,66,40,10.0,0.3333333333333333
+White,Female,67,28,2.0,0.07692307692307693
+White,Female,68,30,7.0,0.30434782608695654
+White,Female,69,28,6.0,0.2727272727272727
+White,Female,70,23,5.0,0.2777777777777778
+White,Female,71,19,3.0,0.1875
+White,Female,72,15,2.0,0.15384615384615385
+White,Female,73,19,5.0,0.35714285714285715
+White,Female,74,15,4.0,0.36363636363636365
+White,Female,75,15,3.0,0.25
+White,Female,76,18,4.0,0.2857142857142857
+White,Female,77,20,5.0,0.3333333333333333
+White,Female,78,12,2.0,0.2
+White,Female,79,10,2.0,0.25
+White,Female,81,7,1.0,0.16666666666666666
+White,Female,82,15,3.0,0.25
+White,Female,83,13,3.0,0.3
+White,Female,84,13,2.0,0.18181818181818182
+White,Female,85,13,3.0,0.3
+White,Female,86,13,5.0,0.625
+White,Female,87,10,1.0,0.1111111111111111
+White,Female,88,7,3.0,0.75
+White,Female,89,8,3.0,0.6
+White,Male,-99,19,5.0,0.35714285714285715
+White,Male,0,6,2.0,0.5
+White,Male,1,8,2.0,0.3333333333333333
+White,Male,2,5,2.0,0.6666666666666666
+White,Male,3,17,4.0,0.3076923076923077
+White,Male,4,16,3.0,0.23076923076923078
+White,Male,5,12,5.0,0.7142857142857143
+White,Male,6,18,3.0,0.2
+White,Male,7,23,7.0,0.4375
+White,Male,8,14,3.0,0.2727272727272727
+White,Male,9,20,2.0,0.1111111111111111
+White,Male,10,38,9.0,0.3103448275862069
+White,Male,11,40,11.0,0.3793103448275862
+White,Male,12,54,15.0,0.38461538461538464
+White,Male,13,74,28.0,0.6086956521739131
+White,Male,14,109,36.0,0.4931506849315068
+White,Male,15,119,34.0,0.4
+White,Male,16,153,38.0,0.33043478260869563
+White,Male,17,178,56.0,0.45901639344262296
+White,Male,18,183,53.0,0.4076923076923077
+White,Male,19,197,54.0,0.3776223776223776
+White,Male,20,192,55.0,0.40145985401459855
+White,Male,21,208,58.0,0.38666666666666666
+White,Male,22,245,66.0,0.3687150837988827
+White,Male,23,248,64.0,0.34782608695652173
+White,Male,24,222,63.0,0.39622641509433965
+White,Male,25,231,60.0,0.3508771929824561
+White,Male,26,220,59.0,0.36645962732919257
+White,Male,27,207,50.0,0.3184713375796178
+White,Male,28,185,46.0,0.33093525179856115
+White,Male,29,202,54.0,0.36486486486486486
+White,Male,30,189,46.0,0.32167832167832167
+White,Male,31,181,59.0,0.48360655737704916
+White,Male,32,175,44.0,0.33587786259541985
+White,Male,33,173,50.0,0.4065040650406504
+White,Male,34,161,42.0,0.35294117647058826
+White,Male,35,155,38.0,0.3247863247863248
+White,Male,36,173,47.0,0.373015873015873
+White,Male,37,145,42.0,0.4077669902912621
+White,Male,38,166,55.0,0.4954954954954955
+White,Male,39,140,37.0,0.3592233009708738
+White,Male,40,159,41.0,0.3474576271186441
+White,Male,41,125,30.0,0.3157894736842105
+White,Male,42,163,47.0,0.4051724137931034
+White,Male,43,161,52.0,0.47706422018348627
+White,Male,44,168,45.0,0.36585365853658536
+White,Male,45,154,42.0,0.375
+White,Male,46,137,31.0,0.29245283018867924
+White,Male,47,165,46.0,0.3865546218487395
+White,Male,48,147,40.0,0.37383177570093457
+White,Male,49,182,40.0,0.28169014084507044
+White,Male,50,174,41.0,0.3082706766917293
+White,Male,51,148,36.0,0.32142857142857145
+White,Male,52,163,45.0,0.3813559322033898
+White,Male,53,157,48.0,0.44036697247706424
+White,Male,54,166,39.0,0.30708661417322836
+White,Male,55,140,35.0,0.3333333333333333
+White,Male,56,131,31.0,0.31
+White,Male,57,125,32.0,0.34408602150537637
+White,Male,58,133,36.0,0.3711340206185567
+White,Male,59,125,31.0,0.32978723404255317
+White,Male,60,81,15.0,0.22727272727272727
+White,Male,61,101,29.0,0.4027777777777778
+White,Male,62,84,20.0,0.3125
+White,Male,63,90,27.0,0.42857142857142855
+White,Male,64,80,21.0,0.3559322033898305
+White,Male,65,71,20.0,0.39215686274509803
+White,Male,66,80,29.0,0.5686274509803921
+White,Male,67,43,9.0,0.2647058823529412
+White,Male,68,53,10.0,0.23255813953488372
+White,Male,69,46,19.0,0.7037037037037037
+White,Male,70,44,12.0,0.375
+White,Male,71,37,11.0,0.4230769230769231
+White,Male,72,40,6.0,0.17647058823529413
+White,Male,73,34,7.0,0.25925925925925924
+White,Male,74,35,6.0,0.20689655172413793
+White,Male,75,22,5.0,0.29411764705882354
+White,Male,76,24,10.0,0.7142857142857143
+White,Male,77,25,4.0,0.19047619047619047
+White,Male,78,22,6.0,0.375
+White,Male,79,20,6.0,0.42857142857142855
+White,Male,80,13,4.0,0.4444444444444444
+White,Male,81,15,5.0,0.5
+White,Male,82,9,2.0,0.2857142857142857
+White,Male,83,16,2.0,0.14285714285714285
+White,Male,84,12,4.0,0.5
+White,Male,85,15,7.0,0.875
+White,Male,86,8,3.0,0.6
+White,Male,87,13,3.0,0.3

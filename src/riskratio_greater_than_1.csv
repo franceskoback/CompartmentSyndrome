@@ -1,0 +1,27 @@
+RACE1,GENDER,AGE,Total,Missed,RiskRatio
+American Indian,Female,16,3,2.0,2.0
+American Indian,Male,27,3,2.0,2.0
+Asian,Female,31,3,2.0,2.0
+Asian,Female,55,3,2.0,2.0
+Asian,Male,52,4,3.0,3.0
+Black or African American,Female,57,5,3.0,1.5
+Black or African American,Female,58,5,4.0,4.0
+Black or African American,Female,62,4,3.0,3.0
+Black or African American,Male,10,9,5.0,1.25
+Not Applicable BIU 1,Male,19,3,2.0,2.0
+Not Applicable BIU 1,Male,32,4,3.0,3.0
+Not Applicable BIU 1,Male,47,3,2.0,2.0
+Not Known/Not Recorded BIU 2,Female,49,3,2.0,2.0
+Not Known/Not Recorded BIU 2,Female,61,5,3.0,1.5
+Not Known/Not Recorded BIU 2,Male,59,6,4.0,2.0
+Not Known/Not Recorded BIU 2,Male,69,4,3.0,3.0
+Other Race,Female,20,7,4.0,1.3333333333333333
+Other Race,Female,38,3,2.0,2.0
+Other Race,Female,51,5,3.0,1.5
+Other Race,Female,56,3,2.0,2.0
+Other Race,Male,4,3,2.0,2.0
+Other Race,Male,5,4,3.0,3.0
+Other Race,Male,11,7,4.0,1.3333333333333333
+Other Race,Male,70,3,2.0,2.0
+Other Race,Male,71,4,3.0,3.0
+White,Female,2,7,4.0,1.3333333333333333
